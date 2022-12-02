@@ -1,0 +1,8 @@
+flask
+torch
+transformers
+six
+memory_profiler
+ray
+sentencepiece
+pandas
