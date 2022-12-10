@@ -1,6 +1,6 @@
 # Zero Copy Experiments
 
-This repository contains the code to reproduce our ZeroCopy experiments.
+This repository contains the code to reproduce our experiments that compare the model load-time for PyTorch's `torch.from_pretrained()`, `torch.load()` and our zero-copy implementation. 
 
 ## Prerequisites
 You must have docker installed and running in the system. You may verify this, let's say on a Ubuntu machine, using:
